@@ -1,0 +1,13 @@
+{
+	"numMachines"		:	"1800",
+	"numMapper"			:	"1700",
+	"numReducer"		:	"100",
+	"commCostMin"		:	"100",
+	"_commCostMin"		:	"Gbps",
+	"commCostMax"		:	"200",
+	"_commCostMax"		:	"Gbps",
+	"commDelay"			:	"10",
+	"_commDelay"		:	"ms",
+	"sizeMapPiece"		:	"64",
+	"_sizeMapPiece"		:	"MB"
+}
